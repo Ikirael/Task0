@@ -1,0 +1,15 @@
+D:\Geek Brains\Task0\Homework_9\Task66\bin\Debug\net6.0\Task66.exe
+D:\Geek Brains\Task0\Homework_9\Task66\bin\Debug\net6.0\Task66.deps.json
+D:\Geek Brains\Task0\Homework_9\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+D:\Geek Brains\Task0\Homework_9\Task66\bin\Debug\net6.0\Task66.dll
+D:\Geek Brains\Task0\Homework_9\Task66\bin\Debug\net6.0\Task66.pdb
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.dll
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\refint\Task66.dll
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.pdb
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+D:\Geek Brains\Task0\Homework_9\Task66\obj\Debug\net6.0\ref\Task66.dll
